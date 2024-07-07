@@ -1,0 +1,7 @@
+dmc/services
+dmc/data/downloads/complete/
+dmc/data/downloads/incomplete/
+dmc/data/media/home
+dmc/data/media/movie
+dmc/data/media/tvshows
+dmc/compose/.env
