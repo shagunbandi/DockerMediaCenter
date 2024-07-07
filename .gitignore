@@ -5,3 +5,5 @@ dmc/data/media/home
 dmc/data/media/movie
 dmc/data/media/tvshows
 dmc/compose/.env
+dmc/traefik/.htpasswd
+dmc/traefik/acme.json
