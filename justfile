@@ -13,3 +13,6 @@ down:
 restart:
     just stop
     just start
+
+logs:
+    docker compose -f dmc/compose/docker-compose.yml logs -f --tail=100
